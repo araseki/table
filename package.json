@@ -1,0 +1,7 @@
+{
+	"name": "a1",
+	"private": true,
+	"workspaces": [
+		"frontend"
+	]
+}
